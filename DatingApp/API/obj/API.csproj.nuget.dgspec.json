@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PW\\desktop\\DotNet Learning\\DatingApp\\DatingApp\\api\\API.csproj": {}
+    "C:\\Users\\PW\\Desktop\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PW\\desktop\\DotNet Learning\\DatingApp\\DatingApp\\api\\API.csproj": {
+    "C:\\Users\\PW\\Desktop\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PW\\desktop\\DotNet Learning\\DatingApp\\DatingApp\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\PW\\Desktop\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\PW\\desktop\\DotNet Learning\\DatingApp\\DatingApp\\api\\API.csproj",
+        "projectPath": "C:\\Users\\PW\\Desktop\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\PW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PW\\desktop\\DotNet Learning\\DatingApp\\DatingApp\\api\\obj\\",
+        "outputPath": "C:\\Users\\PW\\Desktop\\DotNet Learning\\DatingApp\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PW\\AppData\\Roaming\\NuGet\\NuGet.Config",
