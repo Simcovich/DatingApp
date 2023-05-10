@@ -158,3 +158,14 @@ C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\Sys
 C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Data\UserSeedData.json
+E:\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
+E:\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
