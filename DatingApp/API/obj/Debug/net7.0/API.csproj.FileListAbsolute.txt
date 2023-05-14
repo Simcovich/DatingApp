@@ -169,3 +169,6 @@ E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\System.IdentityModel
 E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Data\UserSeedData.json
 E:\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
 E:\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
+C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
