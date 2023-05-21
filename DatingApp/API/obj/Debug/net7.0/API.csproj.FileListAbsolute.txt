@@ -176,3 +176,5 @@ E:\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\CloudinaryDotNet.dll
 E:\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\CloudinaryDotNet.dll
 C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\DotNet Learning\DatingApp\DatingApp\API\obj\Debug\net7.0\API.Properties.Resources.resources
+E:\DotNet Learning\DatingApp\DatingApp\API\obj\Debug\net7.0\API.csproj.GenerateResource.cache
