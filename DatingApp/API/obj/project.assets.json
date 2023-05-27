@@ -2177,19 +2177,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PW\\.nuget\\packages\\": {}
+    "C:\\Users\\simco\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PW\\Desktop\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "E:\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\PW\\Desktop\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\PW\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PW\\Desktop\\DotNet Learning\\DatingApp\\DatingApp\\API\\obj\\",
+      "projectPath": "E:\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\simco\\.nuget\\packages\\",
+      "outputPath": "E:\\DotNet Learning\\DatingApp\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\PW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\simco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2197,6 +2202,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

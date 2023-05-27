@@ -13,19 +13,17 @@ import { MembersService } from '../../_services/members.service';
   styleUrls: ['./member-list.component.css']
 })
 export class MemberListComponent {
-  // members$: Observable<Member[]> | undefined;
   members: Member[] = [];
   pagination: Pagination | undefined;
   userParams: UserParams | undefined;
   genderList = [{ value: 'male', display: 'Males' }, { value: 'female', display: 'Females' }];
 
 
-  constructor(private memberService: MembersService) {
+  constructor(private memberService: MembersService, private accountService: AccountService) {
     this.userParams = this.memberService.getUserParams();
   }
 
   ngOnInit(): void {
-    //this.members$ = this.memberService.getMembers();
     this.loadMembers();
   }
 

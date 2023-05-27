@@ -23,6 +23,7 @@ export class PhotoEditorComponent {
   constructor(private accountService: AccountService, private memberService: MembersService) {
     this.accountService.currentUser$.pipe(take(1)).subscribe({
       next: user => {
+        console.log('user in photo editor: ' + user);
         if (user) this.user = user;
       }
     });

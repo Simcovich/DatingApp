@@ -45,7 +45,7 @@ export class RegisterComponent {
   }
 
   register() {
-    const dob = this.getDateOnly(this.registerForm.controls['DateOfBirth'].value)
+    const dob = this.getDateOnly(this.registerForm.controls['dateOfBirth'].value);
     const values = { ...this.registerForm.value, dateOfBirth: dob }
     this.accountService.register(values).subscribe({
       next: () => {
