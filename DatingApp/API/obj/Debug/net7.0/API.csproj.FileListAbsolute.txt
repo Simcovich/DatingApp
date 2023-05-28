@@ -180,3 +180,8 @@ E:\DotNet Learning\DatingApp\DatingApp\API\obj\Debug\net7.0\API.Properties.Resou
 E:\DotNet Learning\DatingApp\DatingApp\API\obj\Debug\net7.0\API.csproj.GenerateResource.cache
 C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\api\obj\Debug\net7.0\API.Properties.Resources.resources
 C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\api\obj\Debug\net7.0\API.csproj.GenerateResource.cache
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\EntityFramework.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
