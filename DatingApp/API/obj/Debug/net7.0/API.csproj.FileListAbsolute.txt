@@ -185,3 +185,8 @@ E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\EntityFramework.dll
 E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
 E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
 E:\DotNet Learning\DatingApp\DatingApp\api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PW\Desktop\DotNet Learning\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
