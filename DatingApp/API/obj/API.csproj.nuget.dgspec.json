@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj": {}
+    "E:\\DotNet Learning\\DatingApp\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "E:\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj": {
+    "E:\\DotNet Learning\\DatingApp\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "E:\\DotNet Learning\\DatingApp\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj",
+        "projectPath": "E:\\DotNet Learning\\DatingApp\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\simco\\.nuget\\packages\\",
-        "outputPath": "E:\\DotNet Learning\\DatingApp\\DatingApp\\API\\obj\\",
+        "outputPath": "E:\\DotNet Learning\\DatingApp\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

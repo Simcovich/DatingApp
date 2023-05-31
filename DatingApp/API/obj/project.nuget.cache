@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z6auQIn5FTXUxlYUXMn63+ABcYoKxU0xjdKS8XoFeCmbD/6G98ulSt1u3topXgXIkno7z89TsPA/kZjO2KbFNA==",
+  "dgSpecHash": "YS4Jp5uk/mROai7LjrhOCblh1WXFis4/+03Ix1Gg/Mjy/xrIqZvftTm/Dm98QzUIBnC9mrxuhjBenN4CHDuHyQ==",
   "success": true,
-  "projectFilePath": "E:\\DotNet Learning\\DatingApp\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "E:\\DotNet Learning\\DatingApp\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simco\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\simco\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
