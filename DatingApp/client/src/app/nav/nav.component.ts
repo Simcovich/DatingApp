@@ -20,7 +20,7 @@ export class NavComponent {
     this.accountService.login(this.model).subscribe({
       next: _ => {
         this.router.navigateByUrl('/members');
-        this.memberService.resetUserParams();
+        this.model = {};
       }
     });
   }
